@@ -1,1 +1,5 @@
 Hello world!
+
+This is the new Git.
+
+This is amazing!
